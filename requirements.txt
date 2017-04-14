@@ -8,4 +8,3 @@ mimeparse==0.1.3
 model-mommy==1.0
 python-dateutil==2.1
 selenium==2.33.0
-six==1.3.0
